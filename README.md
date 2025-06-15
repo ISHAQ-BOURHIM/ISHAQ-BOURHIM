@@ -1,39 +1,40 @@
 <h1 align="center">Ishaq Bourhim | إسحاق بورحيم</h1>
 
 <p align="center">
-  Étudiant en <strong>Informatique Décisionnelle et Statistique</strong><br>
+  Student in <strong>Decision Support and Statistics</strong><br>
   École Supérieure de Technologie<br>
-  Passionné par la programmation, l’analyse de données, et le développement logiciel
+  Passionate about programming, data analysis, and software development
 </p>
 
 ---
 
-## 🧑‍🎓 Profil académique
+## 🧑‍🎓 Academic Profile
 
-🎓 Étudiant en 1ère année à l’<strong>École Supérieure de Technologie</strong>  
-📚 Spécialité : <strong>Informatique Décisionnelle & Statistique</strong>  
-📍 Localisation : Maroc  
+🎓 First-year student at the <strong>École Supérieure de Technologie</strong>  
+📚 Specialty: <strong>Decision Support & Statistics</strong>  
+📍 Location: Morocco  
 
 ---
 
-## 💻 Compétences techniques
+## 💻 Technical Skills
 
-### 🖥️ Langages de programmation
+### 🖥️ Programming Languages
 - C / C++
-- SQL (requêtes, jointures, gestion des données)
+- SQL (queries, joins, data management)
 
-### 🗃️ Bases de données
-- Conception relationnelle de bases de données
-- Manipulation avec **MySQL**
-- Notions de modélisation (MERISE)
+### 🗃️ Databases
+- Relational database design
+- Working with **MySQL**
+- Basic knowledge of data modeling (MERISE)
+
+---
+
+## 🧰 Tools & Environments
+
+| Tool / Environment | Usage |
+|--------------------|--------|
+| 📝 Code::Blocks     | C / C++ development |
+| 🗃️ MySQL            | Database management |
 
 ---
 
-## 🧰 Outils & environnements
-
-| Outil / Environnement | Utilisation |
-|-----------------------|-------------|
-| 📝 Code::Blocks | Éditeurs C / C++ |
-| 🗃️ MySQL | Gestion de bases de données |
-
----
