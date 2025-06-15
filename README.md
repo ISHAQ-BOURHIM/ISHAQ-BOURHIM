@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">💼 Ishaq Bourhim | إسحاق بورحيم</h1>
 
-<!--
-**ISHAQ-BOURHIM/ISHAQ-BOURHIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Étudiant en <strong>Informatique Décisionnelle et Statistique</strong><br>
+  École Supérieure de Technologie – 1ère année<br>
+  Passionné par la programmation, l’analyse de données, et le développement logiciel
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍🎓 Profil académique
+
+🎓 Étudiant en 1ère année à l’<strong>École Supérieure de Technologie</strong>  
+📚 Spécialité : <strong>Informatique Décisionnelle & Statistique</strong>  
+📍 Localisation : Maroc  
+
+---
+
+## 💻 Compétences techniques
+
+### 🖥️ Langages de programmation
+- C / C++
+- SQL (requêtes, jointures, gestion des données)
+
+### 🗃️ Bases de données
+- Conception relationnelle de bases de données
+- Manipulation avec **MySQL**
+- Notions de modélisation (MERISE)
+
+---
+
+## 🧰 Outils & environnements
+
+| Outil / Environnement | Utilisation |
+|-----------------------|-------------|
+| 📝 Code::Blocks | Éditeurs C / C++ |
+| 🗃️ MySQL | Gestion de bases de données |
+
+---
