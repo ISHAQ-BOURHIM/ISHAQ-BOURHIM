@@ -1,8 +1,8 @@
-<h1 align="center">💼 Ishaq Bourhim | إسحاق بورحيم</h1>
+<h1 align="center">Ishaq Bourhim | إسحاق بورحيم</h1>
 
 <p align="center">
   Étudiant en <strong>Informatique Décisionnelle et Statistique</strong><br>
-  École Supérieure de Technologie – 1ère année<br>
+  École Supérieure de Technologie<br>
   Passionné par la programmation, l’analyse de données, et le développement logiciel
 </p>
 
